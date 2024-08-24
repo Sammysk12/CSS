@@ -1,0 +1,14 @@
+div{
+    height: 100px;
+    background-color: aqua;
+   border: 2px solid cadetblue;
+   display:  inline;
+    
+}
+
+h1{
+    height:50px;
+    width: 200px;
+    background-color: aquamarine;
+    text-align: center;
+}

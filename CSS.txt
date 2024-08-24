@@ -1,0 +1,70 @@
+Cascading Style Sheet 
+
+It is a language that is used to describe the Style of a document.
+
+
+****************************Level 1*************************************
+
+Color Property:
+Used for setting the foreground color. 
+eg. links, buttons, texts, etc.
+
+
+<+> Selectors and it's types -
+
+1)Universal Selector => *{} for selecting all types 
+
+2)Element selector => h1{}, p{}, span{}, etc.
+
+3)ID selector => 
+                <p id="foo">This is a head</p>
+                
+                #foo{} Applys on the id (unique names in HTML) 
+
+4)Class selector =>
+                 <p class="foo">This is a head</p>
+                
+                .foo{} Applys on the id (unique names in HTML)
+
+
+
+Text Properties:
+
+1)text-align => left/right/center
+
+2)Font-Family => Different types of fonts canbe applied on text.
+1]Generic
+2]Specific
+
+2)Units in Class => Absolute
+pixels(px)
+96px = 1 inch
+
+font size: 2px;
+
+line-height:20 px; spaces betwwen the texts.
+
+text-transform: 
+uppercase, lowercase, none, 
+
+
+
+********************************************Level 2*******************************************
+Box model css
+
+Box model:
+1)Margin => Spacing between two boxes.
+2)Border => Just a border. 
+3)Padding => Spacing around the content is Padding. 
+4)Content  => Contains the Content with indivisual height and width.
+
+
+
+
+Display Properties
+
+inline => Takes only required space.
+block  => Takes full space in width.
+inline-block => Similar to inline but we can set margin & padding.
+none => To remove Element from document flow.
+

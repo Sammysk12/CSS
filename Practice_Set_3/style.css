@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: #fff;
+}
+
+
+
+
+.outer{
+    
+    height: 60px;
+    background-color: #0f1111;
+    
+}
+
+button{
+    background-color: rgb(221, 130, 64);
+}
+
+#logo{
+    color:  rgb(221, 130, 64);
+    font-size: 25px;
+}
+
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}

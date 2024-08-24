@@ -1,0 +1,23 @@
+Different color stands out for Different emotions
+
+Red - Passion color, Happiness, Danger
+
+Blue - Stability, Security
+
+
+Color System:
+
+>RGB  
+
+mainly 3 colors are there. We can create multiple colors from these colors by changing the value
+color range between 0 - 255
+                    ^    ^
+                    |    |
+                loweest  highest
+
+
+> HEX(Hexdecimal)
+
+maily RGb colors are used here. Contains decimal codes
+
+
