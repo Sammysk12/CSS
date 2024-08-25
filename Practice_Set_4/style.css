@@ -1,0 +1,42 @@
+.contentbox{
+    height: 100px;
+    width: 100px;
+    border:  2px solid black;
+    display: inline-block;
+}
+
+#content{
+    height: 700px;
+}
+
+
+
+
+.outer{
+    
+    height: 60px;
+    background-color: #0f1111;
+    
+}
+
+button{
+    background-color: rgb(221, 130, 64);
+}
+
+#logo{
+    color:  rgb(221, 130, 64);
+    font-size: 25px;
+}
+
+a{
+    margin-right: 200px;
+    text-decoration: none;
+    color: white;
+} 
+
+
+footer{
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
+}
