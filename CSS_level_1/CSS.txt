@@ -68,3 +68,57 @@ block  => Takes full space in width.
 inline-block => Similar to inline but we can set margin & padding.
 none => To remove Element from document flow.
 
+
+
+
+*****************************************CSS Level 3************************************************
+
+Units in CSS 
+
+(1)Absolute 
+1)pixels
+2)cm & mm
+3)inches
+
+
+(2)Relative
+          =>
+1) % => defining size as Relative to an element's parent object
+
+2)em => text related property. changes size relative to text original size or parent font size. 
+ e.g 2em means 2 times of parent font size 
+ with width its changes according to the font size
+
+3)rem => its relative to root tag i.e like html or body tag
+
+
+4)vh => relative to viewport height i.e browser height
+
+5)vw => same as vh, but for width
+
+
+
+
+Position property 
+
+position : static/relative/Absolute/fixed
+
+1)static => default position of every element is static.
+2)relative => relative to itself moves according to its relative (his own) position.
+3)Absolute => positioned relative to closest positioned ansestor(parent).
+4)fixed => psotioned relative to browser.(removed from flow).
+5)sticky => according to user's browser
+
+
+
+
+z-index 
+
+
+background-image : attach image to background
+
+we cannot only use background image we have to use additional properties for that.
+
+background-size: cover/contain/auto
+
+cover => 
