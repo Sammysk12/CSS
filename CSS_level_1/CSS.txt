@@ -122,3 +122,26 @@ we cannot only use background image we have to use additional properties for tha
 background-size: cover/contain/auto
 
 cover => 
+
+
+
+
+
+
+*******************************CSS Level 4******************************************
+
+Flexbox
+
+flexible box layout
+
+1)flexbox-direction: row => all elements are in row from left to right(and it is default).
+2)flexbox-direction: row-reverse => vice-versa of row 
+1)flexbox-direction: column => all elements are in row from top to bottom. and the main axis is changed to vertical
+
+
+
+flex properties
+
+~ justify-content : flex-start/flex-end/center/space-between/space-evenly/space-around
+
+~align-content : 

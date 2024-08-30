@@ -1,0 +1,9 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-image: url(urban-vintage-78A265wPiO4-unsplash.jpg);
+    background-size: cover;
+    color: whitesmoke;
+    position: fixed;
+    right:0px;
+}
