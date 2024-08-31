@@ -1,0 +1,18 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0 0, 255);
+    border: 2px solid black;
+    transition: 0.3s;
+}
+
+/* div:hover{
+    background-color: red;
+} */
+
+div:hover{
+    background-color: red;
+    font-size: 2rem;
+    
+    
+}

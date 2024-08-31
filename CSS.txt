@@ -157,3 +157,25 @@ Helps to create a responsive website
     }
 }
 
+
+
+
+
+*********************************************CSS Level 5***********************************
+
+Transitions 
+
+transition-property: 
+
+transition-duration: 2s / 4ms
+
+transition-timing-function: ease-in/ease-out/steps/linear
+
+transition-delay: 2s/ 4ms
+
+
+transition shorthand: font-size 2s ease-in-out 0.2s;
+                                ^       ^       ^
+                                |       |       |
+                            duration  timing-   delay
+                                      function 
