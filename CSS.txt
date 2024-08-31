@@ -145,3 +145,15 @@ flex properties
 ~ justify-content : flex-start/flex-end/center/space-between/space-evenly/space-around
 
 ~align-content : 
+
+
+
+Media queries:
+Helps to create a responsive website
+
+@media(width:600){
+    div{
+        background-color:red
+    }
+}
+

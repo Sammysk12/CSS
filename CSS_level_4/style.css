@@ -46,3 +46,15 @@ div{
 #box5{
     background-color: rgb(63, 59, 56);
 }
+
+
+div{
+    background-color: pink;
+}
+
+@media(max-width : 600px){
+    
+    div{
+        background-color: red;
+    }
+}
