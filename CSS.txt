@@ -179,3 +179,63 @@ transition shorthand: font-size 2s ease-in-out 0.2s;
                                 |       |       |
                             duration  timing-   delay
                                       function 
+
+
+
+CSS Transform Property 
+Used to apply 2D & 3D transformations to an elements
+
+
+1)Rotate
+transform:rotate(45deg)
+Units: rad or degrees
+
+2)Scale property:
+
+used for scaling the attributes like font, etc.
+
+
+
+3)translate
+
+transform: translate(20px, 50px)
+                      ^     ^
+                      |     |
+                 x axis    y axis
+
+
+
+
+4)skew:
+streching the element
+transform:skew(90deg)
+
+
+
+
+Animation
+To animate CSS elements
+
+
+       animation name
+            |
+            V
+@keyframe myName{
+    from{font-size: 20px}
+    to {font-size:40px}
+}
+
+
+animation shorthand
+
+animation: name duration type  delay direction
+
+
+% in animation 
+
+0% -> start
+100% -> end 
+
+50%, 60% -> in between for steps
+
+ 
